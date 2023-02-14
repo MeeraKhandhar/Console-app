@@ -1,0 +1,14 @@
+C:\Users\ACS\Desktop\Meera\Week1Task\Week1Task\obj\Debug\Week1Task.csproj.CoreCompileInputs.cache
+C:\Users\ACS\Desktop\Meera\Week1Task\Week1Task\bin\Debug\Week1Task.exe.config
+C:\Users\ACS\Desktop\Meera\Week1Task\Week1Task\bin\Debug\Week1Task.exe
+C:\Users\ACS\Desktop\Meera\Week1Task\Week1Task\bin\Debug\Week1Task.pdb
+C:\Users\ACS\Desktop\Meera\Week1Task\Week1Task\obj\Debug\Week1Task.exe
+C:\Users\ACS\Desktop\Meera\Week1Task\Week1Task\obj\Debug\Week1Task.pdb
+C:\Users\ACS\Desktop\Meera\Week1Task\Week1Task\obj\Debug\Week1Task.csproj.AssemblyReference.cache
+C:\Meera\Week1Task\Week1Task\obj\Debug\Week1Task.csproj.AssemblyReference.cache
+C:\Meera\Week1Task\Week1Task\obj\Debug\Week1Task.csproj.CoreCompileInputs.cache
+C:\Meera\Week1Task\Week1Task\obj\Debug\Week1Task.exe
+C:\Meera\Week1Task\Week1Task\obj\Debug\Week1Task.pdb
+C:\Meera\Week1Task\Week1Task\bin\Debug\Week1Task.exe.config
+C:\Meera\Week1Task\Week1Task\bin\Debug\Week1Task.exe
+C:\Meera\Week1Task\Week1Task\bin\Debug\Week1Task.pdb
